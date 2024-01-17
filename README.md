@@ -1,6 +1,6 @@
 # TAJ MAHAL - (SANDSTORM COMPETETION)
 
-Areplica of Taj Mahal was created for Decentraland. A scene with examples of some simple gamification interactions.
+A replica of Taj Mahal was created for Decentraland. A scene with examples of some simple gamification interactions.
 
 
 
